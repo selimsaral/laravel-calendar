@@ -1,5 +1,5 @@
 {
-    "name": "acaronlex/laravel-calendar",
+    "name": "selimsaral/laravel-calendar",
     "description": "Laravel helper for FullCalendar.io",
     "license": "MIT",
     "type": "package",
